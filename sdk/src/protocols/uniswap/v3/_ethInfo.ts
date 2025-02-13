@@ -342,6 +342,10 @@ export default [
     symbol: "XEN",
   },
   {
+    address: "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+    symbol: "LQTY",
+  },
+  {
     address: "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F",
     symbol: "ACX",
   },
@@ -378,12 +382,20 @@ export default [
     symbol: "PRIME",
   },
   {
+    address: "0x9Ce115f0341ae5daBC8B477b74E83db2018A6f42",
+    symbol: "HAIR",
+  },
+  {
     address: "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
     symbol: "GLM",
   },
   {
     address: "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
     symbol: "PEPE",
+  },
+  {
+    address: "0x5026F006B85729a8b14553FAE6af249aD16c9aaB",
+    symbol: "WOJAK",
   },
   {
     address: "0xA9E8aCf069C58aEc8825542845Fd754e41a9489A",
@@ -452,10 +464,6 @@ export default [
   {
     address: "0x20561172f791f915323241E885b4f7D5187c36E1",
     symbol: "CAL",
-  },
-  {
-    address: "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e",
-    symbol: "HAY",
   },
   {
     address: "0xF19308F923582A6f7c465e5CE7a9Dc1BEC6665B1",
@@ -554,10 +562,6 @@ export default [
     symbol: "PANDORA",
   },
   {
-    address: "0x038ed1383763D704d4271FE856ac96b4557E9D06",
-    symbol: "ALPHABET",
-  },
-  {
     address: "0xDd66781D0E9a08D4FBb5eC7BAc80B691BE27F21D",
     symbol: "AXGT",
   },
@@ -608,6 +612,10 @@ export default [
   {
     address: "0x382ea807A61a418479318Efd96F1EFbC5c1F2C21",
     symbol: "PEW",
+  },
+  {
+    address: "0x054c9D4C6F4EA4E14391addD1812106c97D05690",
+    symbol: "LLD",
   },
   {
     address: "0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC",
@@ -696,10 +704,6 @@ export default [
   {
     address: "0x4C1746A800D224393fE2470C70A35717eD4eA5F1",
     symbol: "PLUME",
-  },
-  {
-    address: "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
-    symbol: "LQTY",
   },
   {
     address: "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
@@ -1042,6 +1046,10 @@ export default [
     symbol: "NMT",
   },
   {
+    address: "0xfd418e42783382E86Ae91e445406600Ba144D162",
+    symbol: "ZRC",
+  },
+  {
     address: "0xdd3B11eF34cd511a2DA159034a05fcb94D806686",
     symbol: "REKT",
   },
@@ -1136,10 +1144,6 @@ export default [
   {
     address: "0x8236a87084f8B84306f72007F36F2618A5634494",
     symbol: "LBTC",
-  },
-  {
-    address: "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
-    symbol: "USD0++",
   },
   {
     address: "0x7A56E1C57C7475CCf742a1832B028F0456652F97",
