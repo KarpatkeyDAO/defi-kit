@@ -6,7 +6,7 @@ export default [
     id: "0x00df7f58e1cf932ebe5f54de5970fb2bdf0ef06d00010000000000000000005b",
     name: "B-50wstETH-25BAL-25AURA",
     type: "Weighted",
-    gauge: "0x64cee2356f959E78DB36A4C23a28f0454447C3dF",
+    gauge: null,
     tokens: [
       {
         address: "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
