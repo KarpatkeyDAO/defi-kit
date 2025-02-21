@@ -417,25 +417,6 @@ export default [
     ],
   },
   {
-    bpt: "0x70D7C473034dbaAA22c03772e804238663A3ce0a",
-    id: "0x70d7c473034dbaaa22c03772e804238663a3ce0a0002000000000000000001b5",
-    name: "ECLP-cbBTC-WETH",
-    type: "GyroE",
-    gauge: "0x3268df88f95b48e605dCdf27F5977C75855e1B20",
-    tokens: [
-      {
-        address: "0x4200000000000000000000000000000000000006",
-        symbol: "WETH",
-        id: "0x",
-      },
-      {
-        address: "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
-        symbol: "cbBTC",
-        id: "0x",
-      },
-    ],
-  },
-  {
     bpt: "0x79FE0750bE76913E83a0f0EB60ba1Ab7FA6FdA5D",
     id: "0x79fe0750be76913e83a0f0eb60ba1ab7fa6fda5d00020000000000000000019f",
     name: "ECLP-GYD-aUSDC",
