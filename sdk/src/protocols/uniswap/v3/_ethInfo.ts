@@ -210,10 +210,6 @@ export default [
     symbol: "XMON",
   },
   {
-    address: "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-    symbol: "SNX",
-  },
-  {
     address: "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
     symbol: "SYN",
   },
@@ -312,10 +308,6 @@ export default [
   {
     address: "0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5",
     symbol: "CPOOL",
-  },
-  {
-    address: "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
-    symbol: "ADS",
   },
   {
     address: "0x4e4a47cAC6A28A62dcC20990ed2cdA9BC659469F",
@@ -428,10 +420,6 @@ export default [
   {
     address: "0x2890dF158D76E584877a1D17A85FEA3aeeB85aa6",
     symbol: "FUMO",
-  },
-  {
-    address: "0x112b08621E27e10773ec95d250604a041f36C582",
-    symbol: "KAS",
   },
   {
     address: "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
@@ -634,6 +622,10 @@ export default [
     symbol: "DOGE",
   },
   {
+    address: "0x28561B8A2360F463011c16b6Cc0B0cbEF8dbBcad",
+    symbol: "MOODENG",
+  },
+  {
     address: "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
     symbol: "FLAY",
   },
@@ -700,6 +692,14 @@ export default [
   {
     address: "0x514910771AF9Ca656af840dff83E8264EcF986CA",
     symbol: "LINK",
+  },
+  {
+    address: "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+    symbol: "BAT",
+  },
+  {
+    address: "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+    symbol: "SNX",
   },
   {
     address: "0x808507121B80c02388fAd14726482e061B8da827",
@@ -818,6 +818,10 @@ export default [
     symbol: "EURT",
   },
   {
+    address: "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+    symbol: "stkAAVE",
+  },
+  {
     address: "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",
     symbol: "PUNDIX",
   },
@@ -884,6 +888,10 @@ export default [
   {
     address: "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
     symbol: "HUNT",
+  },
+  {
+    address: "0x04C17b9D3b29A78F7Bd062a57CF44FC633e71f85",
+    symbol: "IMPT",
   },
   {
     address: "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
@@ -976,6 +984,10 @@ export default [
   {
     address: "0x57e114B691Db790C35207b2e685D4A43181e6061",
     symbol: "ENA",
+  },
+  {
+    address: "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+    symbol: "SAFE",
   },
   {
     address: "0xa84f95eb3DaBdc1bbD613709ef5F2fD42CE5bE8d",
