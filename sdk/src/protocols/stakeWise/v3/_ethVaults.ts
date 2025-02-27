@@ -72,28 +72,22 @@ export default [
     description: "Celestial gains for celestial bodies.",
   },
   {
+    id: "0x96fb413349cb4ec17410df929898ae9c0e56ae40",
+    name: "Blockshard Pioneers DVT Vault",
+    description:
+      "A premier vault utilising Distributed Validator Technology (DVT) for enhanced security and resilience. All validators are operated in-house using SSV, ensuring optimal performance and oversight by our experienced team.\n\nWith a competitive fee of only 3.5% on rewards, this vault provides an efficient and reliable staking solution for ETH stakers.",
+  },
+  {
     id: "0x1b3ce55dde0e0d4b9a200855406e7b14334c10b0",
     name: "Allnodes",
     description:
       "Reliable non-custodial Validator run by the industry leader - Allnodes",
   },
   {
-    id: "0x96fb413349cb4ec17410df929898ae9c0e56ae40",
-    name: "Blockshard Pioneers Vault ",
-    description:
-      "Leading vault featuring a strategic blend of DVT and vanilla validators. Around 50% are managed with SSV and Obol, employing highly skilled and experienced operators. \n\nThe remaining 50% are run on our advanced, high-availability system. The validator client is connected to five Ethereum nodes and uses Web3Signer to protect validator keys, ensuring enhanced reliability and security.\n\nA competitive fee of only 3.5% on rewards makes this vault a prudent choice for stakers. ",
-  },
-  {
     id: "0x05e393ec11d0197a88d84457908edd4ff235f323",
     name: "Stakin - No MEV",
     description:
       "Stakin (https://stakin.com) provides institutional-grade non-custodial staking services and Web3 infrastructure. We operate on more than 40 blockchain networks including Ethereum, with 10,000+ ETH validators.",
-  },
-  {
-    id: "0x7eed3ea8d83ba4ccc1b20674f46825ece2fce594",
-    name: "Fox & Yaga",
-    description:
-      "Fox & Yaga is a collaboration vault on StakeWise dedicated to securing Ethereum while supporting the growth of Yaga, a unique jewelry brand. This initiative combines the strength of decentralized finance with a passion for fostering local businesses, making it a beacon of community-driven progress in the crypto space.",
   },
   {
     id: "0x91211a4965e75152cb549b308f8ba398c3ab337e",
@@ -106,6 +100,12 @@ export default [
     name: "Chorus One - Obol DV vault",
     description:
       'This vault represents a distributed validator cluster , using Obol\'s DV technology to run the validators across multiple nodes. As a staker, you can expect higher uptime, decreased slashing risk, and a meaningful contribution to the decentralization of the Ethereum network.\n\nBy staking with an Obol DV, you automatically participate in the Obol Contributions initiative, contributing 1% of staking rewards to the "1% for Decentralization" retroactive funding model. Your contributions will be tracked and recognized by Obol and can be viewed on our staking dApp, OPUS Pool.',
+  },
+  {
+    id: "0x7eed3ea8d83ba4ccc1b20674f46825ece2fce594",
+    name: "Fox & Yaga",
+    description:
+      "Fox & Yaga is a collaboration vault on StakeWise dedicated to securing Ethereum while supporting the growth of Yaga, a unique jewelry brand. This initiative combines the strength of decentralized finance with a passion for fostering local businesses, making it a beacon of community-driven progress in the crypto space.",
   },
   {
     id: "0xb0fd1783826ce1a254ba8d5c409b267238faa9cd",
@@ -201,11 +201,5 @@ export default [
     name: "Stakin - Full MEV",
     description:
       "Stakin (https://stakin.com) provides institutional-grade non-custodial staking services and Web3 infrastructure. We operate on more than 40 blockchain networks including Ethereum, with 10,000+ ETH validators.",
-  },
-  {
-    id: "0x64f2907f92631619ed7ea510982835f9e1024767",
-    name: "AutoStake ⚡️ 1% fee forever",
-    description:
-      "Slash insurance backed by a SAFU fund.\nDecentralized infrastructure powered by Distributed Validator Technology. \nConnect with us at: https://linktr.ee/autostake",
   },
 ] as const

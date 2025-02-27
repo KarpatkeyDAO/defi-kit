@@ -126,45 +126,6 @@ export default [
     ],
   },
   {
-    bpt: "0x1ab34f24B5b8F6984f521A20aFBa7C38Dd8DE5Fe",
-    id: "0x1ab34f24b5b8f6984f521a20afba7c38dd8de5fe000100000000000000000509",
-    name: "50BANANIA-20WETH-10agEUR-10rETH-5BTC.b-5USDT",
-    type: "Weighted",
-    gauge: null,
-    tokens: [
-      {
-        address: "0x2297aEbD383787A160DD0d9F71508148769342E3",
-        symbol: "BTC.b",
-        id: "0x",
-      },
-      {
-        address: "0x2Dc5dD89A3662567B78FC3a78E1E2c81D9e4D419",
-        symbol: "BANANIA",
-        id: "0x",
-      },
-      {
-        address: "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-        symbol: "WETH",
-        id: "0x",
-      },
-      {
-        address: "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
-        symbol: "rETH",
-        id: "0x",
-      },
-      {
-        address: "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
-        symbol: "EURA",
-        id: "0x",
-      },
-      {
-        address: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-        symbol: "USDT",
-        id: "0x",
-      },
-    ],
-  },
-  {
     bpt: "0x1e713B6b93fc31e8F59de1f757043964d9dDC5Fa",
     id: "0x1e713b6b93fc31e8f59de1f757043964d9ddc5fa0002000000000000000005c7",
     name: "ECLP-GYD-USDC",
@@ -259,7 +220,7 @@ export default [
       },
       {
         address: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-        symbol: "USDT",
+        symbol: "USD₮0",
         id: "0x",
       },
       {
@@ -474,7 +435,7 @@ export default [
       },
       {
         address: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-        symbol: "USDT",
+        symbol: "USD₮0",
         id: "0x",
       },
       {
@@ -517,7 +478,7 @@ export default [
       },
       {
         address: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-        symbol: "USDT",
+        symbol: "USD₮0",
         id: "0x",
       },
     ],
@@ -1003,7 +964,7 @@ export default [
       },
       {
         address: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-        symbol: "USDT",
+        symbol: "USD₮0",
         id: "0x",
       },
     ],
@@ -1426,7 +1387,7 @@ export default [
       },
       {
         address: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-        symbol: "USDT",
+        symbol: "USD₮0",
         id: "0x",
       },
     ],
@@ -1783,7 +1744,7 @@ export default [
       },
       {
         address: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-        symbol: "USDT",
+        symbol: "USD₮0",
         id: "0x",
       },
     ],
